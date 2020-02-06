@@ -1,3 +1,3 @@
 # Restaurant
-# 
-#Restaurant website made to practice on building business websites for companies.
+
+Restaurant website made to practice on building business websites for companies.
