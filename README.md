@@ -1,3 +1,3 @@
-# Restaurant
+# Restaurant Website
 
-Restaurant website made to practice on building business websites for companies.
+Static website made to practice on building business websites for companies.
